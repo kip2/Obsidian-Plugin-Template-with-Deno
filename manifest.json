@@ -1,0 +1,11 @@
+{
+  "id": "product-id",
+  "name": "product Name",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "description for obsidian plugin",
+  "author": "kip2",
+  "authorUrl": "https://github.com/kip2",
+  "main": "main.js",
+  "isDesktopOnly": false
+}
